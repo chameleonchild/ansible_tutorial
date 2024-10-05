@@ -1,1 +1,2 @@
-3.82.44.253 apache_package=apache2 php_package=libapache2-mod-php
+[web_servers]
+3.82.44.253
